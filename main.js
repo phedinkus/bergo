@@ -21,7 +21,7 @@ function createNavBar() {
   return `
     <nav class="bg-white shadow-md mb-8">
       <div class="max-w-6xl mx-auto px-4">
-        <div class="flex justify-between items-center py-4">
+        <div class="flex justify-between items-center py-2">
           <a href="/" class="text-xl font-bold text-indigo-600 hover:text-indigo-800" onclick="navigate('/'); return false;">
             Berlin Bingo
           </a>
