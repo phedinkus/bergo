@@ -42,7 +42,7 @@ function createNavBar() {
 function renderGeneralBingo() {
   const generalItems = [
     'Enjoy a beverage at <a href="https://goo.gl/maps/4SkyYsA5SCr3iBx76" target="_blank">Café Neunsee</a>',
-    'Eat a döner or falefel or kofte',
+    'Eat a döner',
     'Explore the <a href="https://www.berliner-unterwelten.de/en/index.html" target="_blank">underground of Berlin</a>',
     'Visit the <a href="https://g.page/juedischesmuseumberlin?share" target="_blank">Jewish Museum</a> or the <a href="https://www.topographie.de/en/topography-of-terror/" target="_blank">Topography of Terror museum</a>',
     'Attend a show at <a href="https://www.konzertfluegel.com" target="_blank">Piano Christophori salon</a>',
